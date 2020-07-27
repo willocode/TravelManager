@@ -4,6 +4,7 @@ import pymysql
 from tkinter import messagebox
 import storage
 
+#---willocode's python project, using phpmyadmin database connection configured from property files---#
 
 class Travel:
     def __init__(self, root):
