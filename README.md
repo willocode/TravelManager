@@ -1,3 +1,3 @@
-current progress on my travel list app, using python and mysql/phpmyadmin for the database, hosted on localhost.
+current progress on my travel list app, using python and mysql/phpmyadmin for the database
 
-#next: add more configuration in order to push to heroku
+#next: I need to add more configuration in order to push to heroku
